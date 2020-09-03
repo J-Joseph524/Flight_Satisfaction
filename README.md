@@ -1,4 +1,4 @@
-# JJ_KH_Flight_Satisfaction
+# Flight_Satisfaction
 
 ## Introduction:
 
